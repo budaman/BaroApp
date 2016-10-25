@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: dimgrey;
+    -fx-font-size: 11pt;
+    -fx-font-family: serif;
+}
+.label {
+    -fx-text-fill: black;
+}
+.button {
+    -fx-background-color: #DDDDDD;
+    -fx-background-radius: 6;
+}
+
+.raudonas {
+    -fx-background-color: goldenrod;
+
+    -fx-background-radius: 6;
+}
